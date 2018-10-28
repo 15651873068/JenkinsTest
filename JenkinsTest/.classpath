@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/apache-maven-3.5.3-bin/apache-maven-3.5.3/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/apache-maven-3.5.3-bin/apache-maven-3.5.3/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/apache-maven-3.5.3-bin/apache-maven-3.5.3/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-test-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
